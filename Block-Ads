@@ -1,0 +1,6 @@
+#!name=Block Advertising
+#!desc=Block Advertising for Surge iOS
+#!system=ios
+
+[Rule]
+DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list,REJECT
