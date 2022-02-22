@@ -1,4 +1,0 @@
-#!system=mac
-
-[Rule]
-DOMAIN-SUFFIX,acs.org,DIRECT
