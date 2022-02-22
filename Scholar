@@ -1,6 +1,5 @@
 #!name=Scholar
 #!desc= 学术网站直连
-#!system=mac
 
 [Rule]
 DOMAIN-SUFFIX,acm.org,DIRECT
