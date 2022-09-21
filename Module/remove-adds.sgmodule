@@ -1,5 +1,5 @@
-#!name=广告屏蔽
-#!desc=日用夜用
+#!name=广告屏蔽（自定义）
+#!desc=去除京东
 
 [General]
 # > 强制使用 HTTP
