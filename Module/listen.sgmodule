@@ -1,0 +1,7 @@
+#!name=listen-port
+#!desc= 更改监听端口
+#!system= Mac
+[General]
+// General
+http-listen = 0.0.0.0:9888
+socks5-listen = 0.0.0.0:9889
