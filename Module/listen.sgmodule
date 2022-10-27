@@ -1,6 +1,7 @@
 #!name=listen-port
 #!desc= 更改监听端口
-#!system= Mac
+#!system=mac
+
 [General]
 // General
 http-listen = 0.0.0.0:9888
