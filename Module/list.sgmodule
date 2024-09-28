@@ -1,1 +1,5 @@
+#!name=White List
+#!desc= 应用白名单
 
+[Rule]
+PROCESS-NAME,/Applications/Zwift.app/Contents/MacOS/ZwiftLauncher-OSX,DIRECT
